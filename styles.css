@@ -23,6 +23,21 @@ body {
   margin: 0;
 }
 
+.language-toggle {
+  text-align: right;
+  margin-top: 10px;
+}
+
+.language-toggle a {
+  color: #fff;
+  text-decoration: none; 
+  margin-left: 10px; 
+}
+
+.language-toggle a:hover {
+  text-decoration: underline;
+}
+
 .section {
   padding: 20px 0;
 }
