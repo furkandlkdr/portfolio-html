@@ -1,43 +1,43 @@
-# Furkan DULKADİR'in Özgeçmişi
+# Portfolio of Furkan Dulkadir
 
-Bu proje, Furkan DULKADİR'in kişisel portfolyosunu ve özgeçmişini içeren bir web sitesidir. Bu site, Furkan'ın eğitim geçmişi, iş deneyimleri ve becerileri hakkında bilgi sağlar.
+This project is a personal website showcasing Furkan Dulkadir's portfolio and resume. The site provides information about Furkan's educational background, work experiences, and skills.
 
-## İçerik
+## Contents
 
-- [Genel Bilgiler](#genel-bilgiler)
-- [Kullanılan Teknolojiler](#kullanılan-teknolojiler)
-- [Kurulum ve Çalıştırma](#kurulum-ve-çalıştırma)
-- [İletişim](#iletişim)
+- [General Information](#general-information)
+- [Technologies Used](#technologies-used)
+- [Installation and Running](#installation-and-running)
+- [Contact](#contact)
 
-## Genel Bilgiler
+## General Information
 
-Bu proje, HTML ve CSS kullanılarak oluşturulmuş statik bir web sitesidir. Furkan DULKADİR'in eğitim ve iş deneyimlerini, sosyal medya bağlantılarını ve yeteneklerini sergiler.
+This project is a static website created using HTML and CSS. It showcases Furkan DULKADİR's education and work experiences, social media links, and skills.
 
-## Kullanılan Teknolojiler
+## Technologies Used
 
 - HTML5
 - CSS3
 
-## Kurulum ve Çalıştırma
+## Installation and Running
 
-Projenin yerel makinenizde çalıştırılması için aşağıdaki adımları izleyin:
+To run the project on your local machine, follow these steps:
 
-1. Bu depo'yu klonlayın:
+1. Clone this repository:
    `git clone https://github.com/furkandlkdr/portfolio-html.git`
 
-2. Proje dizinine gidin:
+2. Navigate to the project directory:
    `cd portfolio`
 
-3. Bir web sunucusu kullanarak projeyi çalıştırın. Örneğin, VS Code Live Server eklentisi ile:
-   - VS Code'da 'Live Server' eklentisini kurun.
-   - 'index.html' dosyasını açın.
-   - Sağ tıklayın ve 'Open with Live Server' seçeneğini seçin.
+3. Run the project using a web server. For example, with the VS Code Live Server extension:
+   - Install the 'Live Server' extension in VS Code.
+   - Open the 'index.html' file.
+   - Right-click and select 'Open with Live Server'.
 
-4. Tarayıcınızda projeyi görüntüleyin. Genellikle `http://127.0.0.1:5500/` adresinde olacaktır.
+4. View the project in your browser. It will usually be at `http://127.0.0.1:5500/`.
 
-## İletişim
+## Contact
 
-Furkan DULKADİR'e aşağıdaki platformlardan ulaşabilirsiniz:
+You can reach Furkan DULKADİR on the following platforms:
 
 - [GitHub](https://github.com/furkandlkdr)
 - [LinkedIn](https://linkedin.com/in/furkandlkdr)
