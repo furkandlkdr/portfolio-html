@@ -6,12 +6,6 @@ body {
   box-sizing: border-box;
 }
 
-.container {
-  width: 80%;
-  margin: auto;
-  overflow: hidden;
-}
-
 .main-header {
   background-color: #333;
   color: #fff;
@@ -23,18 +17,34 @@ body {
   margin: 0;
 }
 
+.container {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
 .language-toggle {
   text-align: right;
+  @media (max-width: 1024px) {
+    text-align: center;
+    margin-bottom: 10px;
+  }
   margin-top: 10px;
 }
 
 .language-toggle a {
   color: #fff;
-  text-decoration: none; 
+  text-decoration: none;
 }
 
 .language-toggle a:hover {
   text-decoration: underline;
+}
+
+.bio {
+  @media (max-width: 1024px) {
+    margin: 12px;
+  }
 }
 
 .section {
@@ -89,6 +99,16 @@ body {
   margin-bottom: 10px;
   padding: 10px;
   border-left: 5px solid #333;
+}
+
+.experience-list li a {
+  color: #000;
+  text-decoration: underline;
+}
+
+.experience-list li a:hover {
+  color: #333;
+  text-decoration: none;
 }
 
 .skills-list li span,
