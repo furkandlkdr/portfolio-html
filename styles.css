@@ -39,7 +39,7 @@ body {
 
 @media (max-width: 1024px) {
   .navbar {
-    position: static;
+    position: relative;
     transform: none;
     width: 100%;
     text-align: center;
@@ -54,6 +54,24 @@ body {
 
   .navbar ul li {
     margin: 0 10px;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 425px) {
+  .navbar ul {
+    display: flex;
+    flex-direction: column;
+    
+  }
+  .navbar ul li {
+    margin: 5px 0;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: center;
   }
 }
 
@@ -104,13 +122,6 @@ body {
 
 .section h2 {
   margin-top: 0;
-}
-
-.profile-img {
-  width: 150px;
-  border-radius: 50%;
-  margin: 0 auto;
-  display: block;
 }
 
 .social-links {
