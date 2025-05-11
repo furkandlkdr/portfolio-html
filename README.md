@@ -9,6 +9,10 @@ This project is a personal website showcasing Furkan Dulkadir's portfolio and re
 - [Installation and Running](#installation-and-running)
 - [Contact](#contact)
 
+| Desktop Preview | Mobile Preview |
+|------|-------|
+|![Desktop Preview](./images/portfolio_html_1.png)|![Mobile Preview](./images/portfolio_html_2.png)|
+
 ## General Information
 
 This project is a static website created using HTML and CSS. It showcases Furkan DULKADİR's education and work experiences, social media links, and skills.
